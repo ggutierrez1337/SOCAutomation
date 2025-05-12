@@ -1,3 +1,5 @@
+# SOC Automation with Wazuh, Shuffle, and TheHive
+
 # Description
 
 This SOC Automation project aims to showcase the use of automated security operations, event monitoring and alerting, as well as incident response. By leverage Wazuh EDR for event monitoring and alerting, Shuffle as the SOAR tool, and TheHive as a centralized Incident Response and Case Management Platform, alerts/detections are generated automatically and sent directly to the responder as well as automatically generating an alert in TheHive to begin the response process.
